@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ryanstocks00
 - 👀 I’m interested in High Performance Computing on large heterogenous computing systems.
-- 🌱 I’m currently studying a Bachelor of Philosophy (Science) at the Australian National University majoring in Computer Science with minors in mathematics and physics.
+- 🌱 I’m currently undertaking a PhD as the Australian National University looking at accelerating computational quantum chemistry with GPUs
 - 📫 You can reach me at ryan.stocks00@gmail.com if you would like to get in touch.
 
 <!---
