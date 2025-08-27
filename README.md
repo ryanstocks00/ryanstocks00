@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ryanstocks00
-- 👀 I’m interested in High Performance Computing on large heterogenous computing systems.
-- 🌱 I’m currently undertaking a PhD as the Australian National University looking at accelerating computational quantum chemistry with GPUs
+- 👋 Hi, I’m @ryanstocks00, an industry linked PhD candidate at the Australian National University.
+- 👀 I’m interested in high Performance computing on heterogenous exascale systems.
+- 🌱 I'm currently working on the acceleration of computational quantum chemistry with thousands of GPUs.
 - 📫 You can reach me at ryan.stocks00@gmail.com if you would like to get in touch.
 
 <!---
